@@ -1,0 +1,57 @@
+.title{
+	color:red ;
+}
+
+h1{color:blue;
+font size:30px;
+text-align: center;
+} 
+th,thead,tfoot{
+			border:2px solid black;
+		}
+		sup{
+			vertical-align: super;
+			font-size: small;
+		}
+
+.box{width: 200px; height: 300px; border: 5px solid green; background-color: blue;
+	margin-top: 100px;
+  margin-bottom: 400px;
+  margin-right: 0px;
+  margin-left: 0px;}
+
+  div{
+  	background-color:lightgrey;
+  	width:400px;
+  	border: 15px solid green;
+  	margin-left: 400px;
+  	padding: 15px;
+  }
+  img{
+  	-webkit-box-reflect:right;
+  }
+  .button{
+  	background-color: maroon;
+  	border:none;
+  	color:white;
+  	 padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+  .newspaper{
+  	column-count: 3;
+  	background-color:whitesmoke;
+  	width:500px;
+  	border: 10px black;
+  	padding: 15px;
+  }
+  video{
+  	width:800px;
+  	height: 300px;
+  }
+
+
